@@ -1,0 +1,2 @@
+About
+{window.crypto.randomUUID()}
