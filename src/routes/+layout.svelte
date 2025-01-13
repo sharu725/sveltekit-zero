@@ -1,4 +1,5 @@
 <script>
+  import { base } from "$app/paths";
   import "../app.css";
   let { children } = $props();
 </script>
@@ -6,10 +7,10 @@
 <nav>
   <ul class="flex space-x-8">
     <li>
-      <a href="/">Home</a>
+      <a href="{base}/">Home</a>
     </li>
     <li>
-      <a href="/about">About</a>
+      <a href="{base}/about">About</a>
     </li>
   </ul>
 </nav>
