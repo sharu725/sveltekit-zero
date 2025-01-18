@@ -1,0 +1,1 @@
+import{a as r,t as e}from"../chunks/disclose-version.CefxKAif.js";import"../chunks/legacy.aQzPj_ja.js";import{s as i,f as n}from"../chunks/runtime.DrsK8Jb1.js";var p=e("<h1>About</h1> ",1);function f(t){var o=p(),a=i(n(o));a.nodeValue=` Unique id: ${window.crypto.randomUUID()??""}`,r(t,o)}export{f as component};
