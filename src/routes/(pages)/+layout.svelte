@@ -12,6 +12,9 @@
     <li>
       <a href="{base}/about">About</a>
     </li>
+    <li>
+      <a href="{base}/qr">QR Code</a>
+    </li>
   </ul>
 </nav>
 

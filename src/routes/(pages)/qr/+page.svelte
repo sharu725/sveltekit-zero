@@ -8,4 +8,4 @@
 
 <input type="text" bind:value={input_text} />
 
-<img style="max-width: 400px" src={uri} alt="QR code for {input_text}" />
+<img class="w-[400px]"  src={uri} alt="QR code for {input_text}" />
